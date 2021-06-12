@@ -11,12 +11,13 @@ Task
 Build a model that calculates the ‘fitment %’ & detects the factor that influences relevancy and making sure that factor does not introduce inequality and/or bias in the’ fitment %’ by appropriate feature reengineering. Submit a presentation explaining how your model’s predictions will be used by business leaders to analyse and enable an equal-opportunity and bias-free recruitment process.
 
 The Code is structured as follows:
-1.EDA
-2.Feature Engineering
-3.Feature Selection
-4.Update BiasInfluentialFactor field to handle bias
-5.Model Training
-6.Model Testing
+
+1. EDA
+2. Feature Engineering
+3. Feature Selection
+4. Update BiasInfluentialFactor field to handle bias
+5. Model Training
+6. Model Testing
 
 Models Used:
 1. XG Boost
